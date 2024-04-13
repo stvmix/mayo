@@ -1,101 +1,99 @@
 #EXTM3U
-#EXTINF:-1,MX | ANIMAL PLANET 
+
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDc0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1709698313152" tvg-group="CIENCIA Y CULTURA",MX | ANIMAL PLANET 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
-#EXTINF:-1,MX | AZTECA 7  
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/4
-#EXTINF:-1,MX | BOOMERANG 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/5
-#EXTINF:-1,MX | Canal 5 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/7
-#EXTINF:-1,MX | CANAL 9 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/8
-#EXTINF:-1,MX | CARTOON NETWORK 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/9
-#EXTINF:-1,MX | CINECANAL 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/10
-#EXTINF:-1,MX | CINEMAX 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11
-#EXTINF:-1,MX | CNN 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/12
-#EXTINF:-1,MX | COMEDY CENTRAL 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/13
-#EXTINF:-1,MX | DE PELICULA 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/14
-#EXTINF:-1,MX | DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-group="CIENCIA Y CULTURA",MX | DISCOVERY CHANNEL 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
-#EXTINF:-1,MX | DISCOVERY HOME AND HEALT 
+#EXTINF:-1 tvg-group="CIENCIA Y CULTURA",MX | DISCOVERY HOME AND HEALT 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
-#EXTINF:-1,MX | DISCOVERY ID 
+#EXTINF:-1 tvg-group="CIENCIA Y CULTURA",MX | DISCOVERY ID 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
-#EXTINF:-1,MX | DISCOVERY KIDS 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
-#EXTINF:-1,MX | DISCOVERY SCIENCE 
+#EXTINF:-1 tvg-group="CIENCIA Y CULTURA",MX | DISCOVERY SCIENCE 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/19
-#EXTINF:-1,MX | DISCOVERY THEATER 
+#EXTINF:-1 tvg-group="CIENCIA Y CULTURA",MX | DISCOVERY THEATER 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/20
-#EXTINF:-1,MX | DISCOVERY TURBO 
+#EXTINF:-1 tvg-group="CIENCIA Y CULTURA",MX | DISCOVERY TURBO 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
-#EXTINF:-1,MX | DISCOVERY WORLD 
+#EXTINF:-1 tvg-group="CIENCIA Y CULTURA",MX | DISCOVERY WORLD 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
-#EXTINF:-1,MX | DISNEY JR 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/23
-#EXTINF:-1,MX | Disney XD 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/24
-#EXTINF:-1,MX | ESPN 2 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/25
-#EXTINF:-1,MX | ESPN 3 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/26
-#EXTINF:-1,MX | ESPN 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/27
-#EXTINF:-1,MX | ESPN PLUS 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/28
-#EXTINF:-1,MX | ESTRELLAS 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/29
-#EXTINF:-1,MX | FOX LIFE HD 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/30
-#EXTINF:-1,MX | FOX SPORTS 1 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
-#EXTINF:-1,MX | FOX SPORTS 2 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
-#EXTINF:-1,MX | FOX SPORTS  3
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/33
-#EXTINF:-1,MX | GLITZ 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/34
-#EXTINF:-1,MX | GOURMET 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/35
-#EXTINF:-1,MX | HISTORY CHANNEL 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
-#EXTINF:-1,MX | MULTIMEDIOS MTY 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/37
-#EXTINF:-1,MX | NATGEO KIDS 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/38
-#EXTINF:-1,MX | NATGEO WILD 
+#EXTINF:-1 tvg-group="CIENCIA Y CULTURA",MX | NATGEO WILD 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
-#EXTINF:-1,MX | NATGEO 
+#EXTINF:-1 tvg-group="CIENCIA Y CULTURA",MX | NATGEO 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
-#EXTINF:-1,MX | NICK JR 
+#EXTINF:-1 tvg-group="CIENCIA Y CULTURA",MX | HISTORY CHANNEL 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
+
+#EXTINF:-1 tvg-group="INFANTILES",MX | CARTOON NETWORK 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/9
+#EXTINF:-1 tvg-group="INFANTILES",MX | DISCOVERY KIDS 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
+#EXTINF:-1 tvg-group="INFANTILES",MX | DISNEY JR 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/23
+#EXTINF:-1 tvg-group="INFANTILES",MX | Disney XD 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/24
+#EXTINF:-1 tvg-group="INFANTILES",MX | NATGEO KIDS 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/38
+#EXTINF:-1 tvg-group="INFANTILES",MX | NICK JR 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/41
-#EXTINF:-1,MX | SONY 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/42
-#EXTINF:-1,MX | SPACE 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/43
-#EXTINF:-1,MX | STUDIO UNIVERSAL 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/44
-#EXTINF:-1,MX | TBS 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/45
-#EXTINF:-1,MX | TLC 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/46
-#EXTINF:-1,MX | TLNOVELAS
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/47
-#EXTINF:-1,MX | TOONCAST 
+#EXTINF:-1 tvg-group="INFANTILES",MX | TOONCAST 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/48
-#EXTINF:-1,MX | TUDN 
+
+#EXTINF:-1 tvg-group="Deportes",MX | ESPN 2 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/25
+#EXTINF:-1 tvg-group="Deportes",MX | ESPN 3 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/26
+#EXTINF:-1 tvg-group="Deportes",MX | ESPN 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/27
+#EXTINF:-1 tvg-group="Deportes",MX | ESPN PLUS 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/28
+#EXTINF:-1 tvg-group="Deportes",MX | FOX SPORTS 1 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
+#EXTINF:-1 tvg-group="Deportes",MX | FOX SPORTS 2 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
+#EXTINF:-1 tvg-group="Deportes",MX | FOX SPORTS  3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/33
+#EXTINF:-1 tvg-group="Deportes",MX | TUDN 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/49
-#EXTINF:-1,MX | TVC DEPORTES 
+#EXTINF:-1 tvg-group="Deportes",MX | TVC DEPORTES 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/50
-#EXTINF:-1,MX | UNICABLE 
+
+#EXTINF:-1 tvg-group="ARGENTINA",MX | AZTECA 7  
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/4
+#EXTINF:-1 tvg-group="ARGENTINA",MX | BOOMERANG 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/5
+#EXTINF:-1 tvg-group="ARGENTINA",MX | Canal 5 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/7
+#EXTINF:-1 tvg-group="ARGENTINA",MX | CANAL 9 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/8
+#EXTINF:-1 tvg-group="ARGENTINA",MX | CINECANAL 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/10
+#EXTINF:-1 tvg-group="ARGENTINA",MX | CINEMAX 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11
+#EXTINF:-1 tvg-group="ARGENTINA",MX | CNN 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/12
+#EXTINF:-1 tvg-group="ARGENTINA",MX | COMEDY CENTRAL 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/13
+#EXTINF:-1 tvg-group="ARGENTINA",MX | ESTRELLAS 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/29
+#EXTINF:-1 tvg-group="ARGENTINA",MX | GLITZ 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/34
+#EXTINF:-1 tvg-group="ARGENTINA",MX | GOURMET 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/35
+#EXTINF:-1 tvg-group="ARGENTINA",MX | SONY 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/42
+#EXTINF:-1 tvg-group="ARGENTINA",MX | SPACE 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/43
+#EXTINF:-1 tvg-group="ARGENTINA",MX | STUDIO UNIVERSAL 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/44
+#EXTINF:-1 tvg-group="ARGENTINA",MX | TBS 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/45
+#EXTINF:-1 tvg-group="ARGENTINA",MX | TLC 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/46
+#EXTINF:-1 tvg-group="ARGENTINA",MX | TLNOVELAS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/47
+#EXTINF:-1 tvg-group="ARGENTINA",MX | UNICABLE 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/51
-#EXTINF:-1,MX | WARNER 
+#EXTINF:-1 tvg-group="ARGENTINA",MX | WARNER 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/52
 #EXTINF:-1,MX | LMP 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/53
