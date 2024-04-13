@@ -599,6 +599,21 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/881
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" tvg-group="Deportes",AR FOX SPORTS 3
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/882
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports.json
+#EXTINF:-1 tvg-logo="https://megadeportestv.live/img/fox-sports-mx.webp" tvg-group="Deportes", Fox Sports
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports2HD.json
+#EXTINF:-1 tvg-logo="https://megadeportestv.live/img/fox-sports-2-mx.webp" tvg-group="Deportes", Fox Sports 2
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports3HD.json
+#EXTINF:-1 tvg-logo="https://megadeportestv.live/img/fox-sports-3-mx.webp" tvg-group="Deportes", Fox Sports 3
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/33
+
 #EXTINF:-1 tvg-logo="https://tv-guide.vercel.app/_next/image?url=https%3A%2F%2Fadma.tmsimg.com%2Fassets%2Fs15377_ll_h15_ab.png%3Fw%3D360%26h%3D270%3Fw%3D100&w=256&q=75" tvg-group="Deportes", FOX DEPORTES
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/128
 
@@ -607,21 +622,6 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/435
 
 #EXTINF:-1 tvg-logo="https://megacable.com.mx/fox_sports/img/fox.png" tvg-group="Deportes", Fox Sports Premium MX op1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports.json
-#EXTINF:-1 tvg-logo="https://www.debate.com.mx/__export/1595634989471/sites/debate/img/2020/07/24/fox_crop1595633752334.png_346753400.png" tvg-group="Deportes", Fox Sports
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports2HD.json
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports2.png" tvg-group="Deportes", Fox Sports 2
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports3HD.json
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" tvg-group="Deportes", Fox Sports 3
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/33
 
 #EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png" tvg-group="Deportes",DIRECTV SPORTS 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/467
