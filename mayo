@@ -1803,37 +1803,33 @@ https://cootv.cootel.com.ni:8095/Canal50_paka/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/CartoonNetwork.json
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" tvg-group="INFANTILES", CARTOON NETWORK
-https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/9
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6d_F-DT3DomoHVAnE_BJQlsBtxDBzlqfQKUe97DLmTL_EF1Xvyxy8OLARNJ9MSpJjRM&usqp=CAU" tvg-group="INFANTILES", TOONCAST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
-https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/48
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DisneyChannelHD.json
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708456868844" tvg-group="INFANTILES", Disney OK
-https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/24
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DisneyJr.json
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/756.png" tvg-group="INFANTILES", Disney Junior 
-https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/23
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Boomerang.json
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmaIo2szuLSwPczz40eRBhhOXvyR4fuuDNWtDYTyM5BLrX5b-FL1jg_BrIrMmgvx3Usg&usqp=CAU" tvg-group="INFANTILES", CARTOONITO
 https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Discovery_Kids.json
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ecbb842d-3b93-4c7b-90fd-9a188d7b4f20" tvg-group="INFANTILES", Discovery Kids 
-https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/BabyTV.json
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/695.png" tvg-group="INFANTILES", BABY TV
-https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_2A/BabyTV.mpd
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/134
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo-2014.png" tvg-group="INFANTILES", Babyfirst | alta definición
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699 -11ea-b899-0242ac110002&userId=&serverSideAds=true
@@ -1844,10 +1840,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311&checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_Z008vfbTzU/YLFmmFBX6qI/AAAAAAAAD4s/1gAWpUIrEUU3s1hnLbTSffX4XnOOT_A3wCLcBGAsYHQ/s540/happykids.tv-espa%25C3%25B1ol-logoroku.png" tvg-group="INFANTILES",Kids Es
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Nick_Jr.json
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/816.png" tvg-group="INFANTILES", Nick Jr.
-https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/41
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F619PhG.png" tvg-group="INFANTILES", Nick Junior Club| alta definición
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=& buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366- 4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a -11ea-bfbf-0242ac110002&userId=&serverSideAds=true
@@ -1855,7 +1849,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Nickelodeon.json
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1181x886/Y2gwMTAwMDAwMDAwMjI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1181x886.png?timestamp=1708457100995" tvg-group="INFANTILES", nickelodeon 
-https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/163
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLQJ8Svc/NICK-CL-SICO.png" tvg-group="INFANTILES",NICK CLASICO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=bc342b32-6e53-468c-9a43-1cbc213945ac&clientModelNumber=na&deviceDNT=false&deviceId=bc342b32-6e53-468c-9a43-1cbc213945ac&deviceLat=13.7066&deviceLon=-89.2053&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d5b8a4f4-6969-11eb-ac8e-0242ac110002&sid=d5b8a4f4-6969-11eb-ac8e-0242ac110002&userId=
@@ -2475,6 +2469,9 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF: -1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/freetv_sabermas_1920x1080.jpg" tvg-group="CIENCIA Y CULTURA", SABER MAS HD
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-group="CIENCIA Y CULTURA", TRUTV
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/174
+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDc0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1709698313152" tvg-group="CIENCIA Y CULTURA", PLANETA ANIMAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2528,6 +2525,9 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/r3tZMRkQnemnrWoG7SSTQZnwkRxbjLcg33aIsImHUqoGJutvM4CGiIyhLGs9CN6eOPnQkoJ1=s900-c-k-c0x00ffffff-no-rj" tvg-group="CIENCIA Y CULTURA",DISCOVERY TURBO ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
 
+#EXTINF:-1 tvg-logo="" tvg-group="CIENCIA Y CULTURA",DISCOVERY CIVILIZATION
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/489
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/History_2.json
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/History_2.svg/revision/latest/scale-to-width-down/200?cb=20200826145426" tvg-group="CIENCIA Y CULTURA", History 2
@@ -2537,9 +2537,6 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/154
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HistoryHD.json
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Logo-2008.png" tvg-group="CIENCIA Y CULTURA", History
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Logo-2008.png" tvg-group="CIENCIA Y CULTURA", HISTORY EN ESPAÑOL
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/461
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TLC.json
@@ -4232,24 +4229,6 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/51
 #EXTINF:-1 tvg-group="INFANTILES",COMEDY CENTRAL ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/13
 
-#EXTINF:-1 tvg-group="INFANTILES",RED DE DIBUJOS ANIMADOS ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/9
-
-#EXTINF:-1 tvg-group="INFANTILES",DISNEY JR ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/23
-
-#EXTINF:-1 tvg-group="INFANTILES",Disney  ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/24
-
-#EXTINF:-1 tvg-group="INFANTILES",NIÑOS DESCUBRIMIENTO ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
-
-#EXTINF:-1 tvg-group="INFANTILES", NICK JR  ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/41
-
-#EXTINF:-1 tvg-group="INFANTILES", TOONCAST ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/48
-
 #EXTINF:-1 tvg-group="INFANTILES",CINECANAL ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/10
 
@@ -4283,3 +4262,35 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/68
 #EXTINF:-1 tvg-group="INFANTILES",AXN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
 
+
+#EXTINF:-1 tvg-group="INFANTILES", - DIRECTV SPORTS 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/467
+
+#EXTINF:-1 tvg-group="INFANTILES", - DIRECTV SPORTS 2 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/468
+
+#EXTINF:-1 tvg-group="INFANTILES", - DIRECTV SPORTS PLUS
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/469
+
+#EXTINF:0 tvg-group="INFANTILES", - El Salvador telecorporacion
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="INFANTILES", - Gran Hermano Argentina 24Hrs 
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132440
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="INFANTILES", - Camara 1 Gran Hermano Argentina 24Hrs 
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132441
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="INFANTILES", - Camara 2 Gran Hermano Argentina 24Hrs 
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132442
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="INFANTILES", - Camara 3 Gran Hermano Argentina 24Hrs 
+http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132443
+
+
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png" tvg-group="INFANTILES", - ││D_GAMES_COL││ [HD]
+http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146507
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" tvg-group="INFANTILES", - Directv Sports (e)(1080) fuxxi
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/955
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/2560px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" tvg-group="INFANTILES",DIRECTV SPORTS 2
+http://redima.pro:8880/TISUCR/TISUCR/576
