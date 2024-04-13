@@ -2452,13 +2452,13 @@ https://i.mjh.nz/SamsungTVPlus/ESBA2200006B4.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/e/ec/El_gourmet_2015.jpg/revision/latest?cb=20151227232158&path-prefix=es" tvg-group="CIENCIA Y CULTURA", GOURMET
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/35
 
-#EXTINF:-1 tvg-logo="" tvg-group="CIENCIA Y CULTURA",NATGEO WILD 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/251919393202173-nm_200.jpg" tvg-group="CIENCIA Y CULTURA",NATGEO WILD 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708457117884" tvg-group="CIENCIA Y CULTURA", FOOD NETWORK
-https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/883
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSUgpzbZpTGfne_3H2yOxB_d6waSJ1u2YgrcnIcQHkHuctMyRvRyJ7IZsAYOjJBo8kwY&usqp=CAU" tvg-group="CIENCIA Y CULTURA",Cocina TV
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
@@ -2494,6 +2494,12 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDIwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708457098742" tvg-group="CIENCIA Y CULTURA", Discovery Channel
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
 
+#EXTINF:-1 tvg-logo="" tvg-group="CIENCIA Y CULTURA",DISCOVERY EN ESPANOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/136
+
+#EXTINF:-1 tvg-logo="" tvg-group="CIENCIA Y CULTURA",DISCOVERY FAMILIA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/137
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DiscoveryHomeHealthHD.json
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkNg7ModCA04yS8-Bno8jaYR0FaKQnnWB5DEq-UzDwZTRrzoIDt4MkdTOQ8VuVImKFfuk&usqp=CAU" tvg-group="CIENCIA Y CULTURA", Discovery Home&Health 
@@ -2519,18 +2525,21 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/investigation.png" tvg-group="CIENCIA Y CULTURA", ID
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
 
-#EXTINF:-1 tvg-logo="" tvg-group="CIENCIA Y CULTURA",DISCOVERY TURBO ok
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" tvg-group="CIENCIA Y CULTURA",DISCOVERY TURBO ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/History_2.json
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/History_2.svg/revision/latest/scale-to-width-down/200?cb=20200826145426" tvg-group="CIENCIA Y CULTURA", History 2
-https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/154
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HistoryHD.json
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Logo-2008.png" tvg-group="CIENCIA Y CULTURA", History
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Logo-2008.png" tvg-group="CIENCIA Y CULTURA", HISTORY EN ESPAÑOL
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/461
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TLC.json
@@ -4273,3 +4282,4 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/68
 
 #EXTINF:-1 tvg-group="INFANTILES",AXN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
+
