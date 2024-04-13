@@ -2452,9 +2452,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBA2200006B4.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/e/ec/El_gourmet_2015.jpg/revision/latest?cb=20151227232158&path-prefix=es" tvg-group="CIENCIA Y CULTURA", GOURMET
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/35
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/251919393202173-nm_200.jpg" tvg-group="CIENCIA Y CULTURA",NATGEO WILD 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708457117884" tvg-group="CIENCIA Y CULTURA", FOOD NETWORK
@@ -2489,15 +2486,18 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjIzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708457110738" tvg-group="CIENCIA Y CULTURA", National Geographic
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/251919393202173-nm_200.jpg" tvg-group="CIENCIA Y CULTURA",NATGEO WILD 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DiscoveryHD.json
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDIwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708457098742" tvg-group="CIENCIA Y CULTURA", Discovery Channel
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
 
-#EXTINF:-1 tvg-logo="" tvg-group="CIENCIA Y CULTURA",DISCOVERY EN ESPANOL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/885128527242080257/8__B3LOK_400x400.jpg" tvg-group="CIENCIA Y CULTURA",DISCOVERY EN ESPAÑOL
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/136
 
-#EXTINF:-1 tvg-logo="" tvg-group="CIENCIA Y CULTURA",DISCOVERY FAMILIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3R59gz7UAHOXkKTcZP2jPUiA3Q9seoS786J9p81nGD9YGm4dPoV44-eBGWwIIvJFZXU&usqp=CAU" tvg-group="CIENCIA Y CULTURA",DISCOVERY FAMILIA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/137
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2525,7 +2525,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/investigation.png" tvg-group="CIENCIA Y CULTURA", ID
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" tvg-group="CIENCIA Y CULTURA",DISCOVERY TURBO ok
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/r3tZMRkQnemnrWoG7SSTQZnwkRxbjLcg33aIsImHUqoGJutvM4CGiIyhLGs9CN6eOPnQkoJ1=s900-c-k-c0x00ffffff-no-rj" tvg-group="CIENCIA Y CULTURA",DISCOVERY TURBO ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
