@@ -2486,6 +2486,9 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/251919393202173-nm_200.jpg" tvg-group="CIENCIA Y CULTURA",NATGEO WILD 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
 
+#EXTINF:-1 tvg-logo="" tvg-group="CIENCIA Y CULTURA",DISCOVERY CIVILIZATION
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/489
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DiscoveryHD.json
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDIwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708457098742" tvg-group="CIENCIA Y CULTURA", Discovery Channel
@@ -2524,9 +2527,6 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/r3tZMRkQnemnrWoG7SSTQZnwkRxbjLcg33aIsImHUqoGJutvM4CGiIyhLGs9CN6eOPnQkoJ1=s900-c-k-c0x00ffffff-no-rj" tvg-group="CIENCIA Y CULTURA",DISCOVERY TURBO ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
-
-#EXTINF:-1 tvg-logo="" tvg-group="CIENCIA Y CULTURA",DISCOVERY CIVILIZATION
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/489
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/History_2.json
@@ -4262,8 +4262,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/68
 #EXTINF:-1 tvg-group="INFANTILES",AXN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
 
-
-#EXTINF:-1 tvg-group="INFANTILES", - DIRECTV SPORTS 
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png" tvg-group="INFANTILES", - DIRECTV SPORTS 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/467
 
 #EXTINF:-1 tvg-group="INFANTILES", - DIRECTV SPORTS 2 
@@ -4275,22 +4274,3 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/469
 #EXTINF:0 tvg-group="INFANTILES", - El Salvador telecorporacion
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="INFANTILES", - Gran Hermano Argentina 24Hrs 
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132440
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="INFANTILES", - Camara 1 Gran Hermano Argentina 24Hrs 
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132441
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="INFANTILES", - Camara 2 Gran Hermano Argentina 24Hrs 
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132442
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eVXghNNepwv_1RdjZKf1RgIj_QD4j-zdEQGZyVt6omJ0IF3E1U31TNbdkWaZcJPxbZ0&usqp=CAU" tvg-group="INFANTILES", - Camara 3 Gran Hermano Argentina 24Hrs 
-http://live.budtvlight.com:25461/IvanKalkbrenner/YATQpN2TmwPT/132443
-
-
-#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png" tvg-group="INFANTILES", - ││D_GAMES_COL││ [HD]
-http://restreamus.com:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/146507
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" tvg-group="INFANTILES", - Directv Sports (e)(1080) fuxxi
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/955
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/2560px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" tvg-group="INFANTILES",DIRECTV SPORTS 2
-http://redima.pro:8880/TISUCR/TISUCR/576
