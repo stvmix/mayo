@@ -342,11 +342,6 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/840
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/18.png" tvg-group="Deportes", ESPN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/27
 
-##EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/18.png" tvg-group="Deportes", ESPN AR
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/835
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/ESPN2_Arg.json
 #EXTINF:-1 tvg-logo="https://brandeps.com/logo-download/E/ESPN2-logo-01.png" tvg-group="Deportes", ESPN 2 -
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/25
 
@@ -402,7 +397,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/33
 #EXTINF:-1 tvg-logo="https://tv-guide.vercel.app/_next/image?url=https%3A%2F%2Fadma.tmsimg.com%2Fassets%2Fs15377_ll_h15_ab.png%3Fw%3D360%26h%3D270%3Fw%3D100&w=256&q=75" tvg-group="Deportes", FOX DEPORTES
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/128
 
-#EXTINF:-1 tvg-logo="" tvg-group="Deportes",FOX Deportes FUBO
+#EXTINF:-1 tvg-logo="https://tv-guide.vercel.app/_next/image?url=https%3A%2F%2Fadma.tmsimg.com%2Fassets%2Fs15377_ll_h15_ab.png%3Fw%3D360%26h%3D270%3Fw%3D100&w=256&q=75" tvg-group="Deportes",FOX Deportes FUBO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
 
 #EXTINF:-1 tvg-logo="https://stephenarnoldmusic.com/wp-content/uploads/2017/02/client-logo-espn-deportes.png" tvg-group="Deportes",US ESPN Deportes ok
@@ -410,6 +405,9 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/435
 
 #EXTINF:-1 tvg-logo="https://megacable.com.mx/fox_sports/img/fox.png" tvg-group="Deportes", Fox Sports Premium MX op1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E8uMTXgXMAQX8j2.jpg" tvg-group="Deportes", EVENTOS Multicanal Televisión (Santiago de Cali | Valle del Cauca) (720p)
+https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1686583437162.png" tvg-group="Deportes",DIRECTV SPORTS 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/467
@@ -419,6 +417,12 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/468
 
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1712923464859" tvg-group="Deportes", DIRECTV SPORTS PLUS CO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/469
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1280px-Canal_4_TCS.png" tvg-group="Deportes", El Salvador telecorporacion
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/07/LaLigaTV-por-M_Color-Negativo_RGB.jpg" tvg-group="Deportes", ES LA LIGA
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/F0Bj6zqN_9aVMbliabgjVz2dMrCpSwrnYS6pt74_oKeEhnZzHIV6baz_HQAqE-8-_RMK5JYRmQ=s900-c-k-c0x00ffffff-no-rj" tvg-group="Deportes", TUDN USA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/337
@@ -435,23 +439,11 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/87ba40/vix-/1366_2000.jpeg" tvg-group="Deportes",Futbol Vix
 https://linear-368.frequency.stream/mt/studio/368/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://2.bp.blogspot.com/-iAsWzG0R1n8/XxtabcoDIXI/AAAAAAABA9g/uTtF8CobHJsJIzD8rOie4H8ySKWXNB4QwCK4BGAYYCw/s400/afizzionados.png" tvg-group="Deportes",Afizzionados (576p)
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://2.bp.blogspot.com/-iAsWzG0R1n8/XxtabcoDIXI/AAAAAAABA9g/uTtF8CobHJsJIzD8rOie4H8ySKWXNB4QwCK4BGAYYCw/s400/afizzionados.png" tvg-group="Deportes",Afizzionados
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/583
 
-#EXTINF:-1 tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2023/07/LaLigaTV-por-M_Color-Negativo_RGB.jpg" tvg-group="Deportes", ES LA LIGA
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" tvg-group="Deportes", FIFA+
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E8uMTXgXMAQX8j2.jpg" tvg-group="Deportes", EVENTOS Multicanal Televisión (Santiago de Cali | Valle del Cauca) (720p)
-https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1280px-Canal_4_TCS.png" tvg-group="Deportes", El Salvador telecorporacion
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JaUqZ8sdK9xwdg7Q0PuaawC_24JwZmiF_u3CNMazbLY88bpyma9AII2bkxRAAoKRVFLIliaJH80=s900-c-k-c0x00ffffff-no-rj" tvg-group="Deportes", WIN DEPORTES 
 https://ythls-v2.onrender.com/channel/UCZjpA3YBPXvJv3pg4SPEjfw.m3u8
@@ -468,7 +460,7 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zGkNs79 /BEIN-SPORTS-EXTRA-VU-TV-PLAYER.png" tvg-group="Deportes",BEIN SPORTS XTRA Español
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" tvg-group="Deportes",DeporTV
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://d3b5jqy5xuub7g.cloudfront.net/wp-content/uploads/2021/05/DeporTVOK.jpg" tvg-group="Deportes",DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUB5kov319WUOVjk7fGo1tHymaxuVl008Oj8YEVlZvXqbkycQPBJj4Rz8-FghuukIHM_E&usqp=CAU" tvg-group="Deportes", TVC DEPORTES
@@ -1546,6 +1538,9 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_b9YFXoEweeqnFfpHVF7hrmVfOiuNC_oIZJGAkWGQGzDkW3lmcRXj6IwBIQTFaFeGBQ&usqp=CAU" tvg-group="INFANTILES",  PLANETA TV NIÑOS cl
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?TecnoPlaylist
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PO47HbOlemo/hqdefault_live.jpg" tvg-group="INFANTILES", Simpson Mania HD	
+https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv?android_vs.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/campeones-sendokai/images/2/23/Clan_Logo.png/revision/latest?cb=20150130205049&path-prefix=es" tvg-group="INFANTILES",clan
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
 
@@ -1556,13 +1551,10 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X50xOp7y_a4/maxresdefault.jpg" tvg-group="INFANTILES", | DM Niños TV
-https://ott1.hdlatam.tv/live/k1DS_tvLKENFSRJVFB/playlist.m3u8
+https://ott1.hdlatam.tv/live/k1DS_tvLKENFS53FB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2023/03/Logo-De-Dreiko-Nuevo-1-300x300.png" tvg-group="INFANTILES",Dreiko TV OK
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PO47HbOlemo/hqdefault_live.jpg" tvg-group="INFANTILES", Simpson Mania HD	
-https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv?android_vs.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/e/e4/Big_2019.png/revision/latest?cb=20200320175423" tvg-group="INFANTILES", big channel
 https://cageu.bozztv.com/ssh101/ssh101/bigchannel/playlist.m3u8
@@ -2103,11 +2095,9 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cbd953a228ec414f4497f35ff433ca05.webp" tvg-group="CIENCIA Y CULTURA",NATGEO WILD 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
 
-#EXTINF:-1 tvg-logo="" tvg-group="CIENCIA Y CULTURA",DISCOVERY CIVILIZATION
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDIwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708457098742" tvg-group="CIENCIA Y CULTURA", DISCOVERY CHANNEL
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/489
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DiscoveryHD.json
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDIwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1708457098742" tvg-group="CIENCIA Y CULTURA", Discovery Channel
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
 
@@ -2117,17 +2107,12 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/136
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3R59gz7UAHOXkKTcZP2jPUiA3Q9seoS786J9p81nGD9YGm4dPoV44-eBGWwIIvJFZXU&usqp=CAU" tvg-group="CIENCIA Y CULTURA",DISCOVERY FAMILIA
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/137
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DiscoveryHomeHealthHD.json
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkNg7ModCA04yS8-Bno8jaYR0FaKQnnWB5DEq-UzDwZTRrzoIDt4MkdTOQ8VuVImKFfuk&usqp=CAU" tvg-group="CIENCIA Y CULTURA", Discovery Home&Health 
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-vljy_Wrve6I/AAAAAAAAAAI/AAAAAAAAAAA/sk2fuS1_wv0/photo.jpg" tvg-group="CIENCIA Y CULTURA", Discovery Home&Health 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Theater_HD.json
 #EXTINF:-1 tvg-logo="https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2021/09/discovery-theater-hd_color-rgb-jpg_4700-scaled.jpg&width=1024&height=620&cropratio=false&fill&color=eeeeee" tvg-group="CIENCIA Y CULTURA", Discovery Theater
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/20
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Discovery_Science.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/19
@@ -3136,9 +3121,6 @@ https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O6FHT0IKkQDgfn-wy7WmT5J1i_Zt6Wiy8bLx53eU001K9_ja5nV-R1ZfenWB6m3SgxQ&usqp=CAU" tvg-group="ARGENTINA",Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDnmwuk9qoK__-X31OHRRVr9yeW3zBabGQ8Inc838Fp-SNTHY2vC-oH3tXQbZL1yIUto&usqp=CAU" tvg-group="ARGENTINA",Wapa America  Deportes
-https://live.field59.com/wapa/wapa3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WAPADT2.pr" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png" tvg-group="ARGENTINA",WAPA-DT2 (WAPA Deportes) (1080p)
 https://live.field59.com/wapa/wapa2/playlist.m3u8
