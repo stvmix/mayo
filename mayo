@@ -1562,6 +1562,9 @@ https://cageu.bozztv.com/ssh101/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" tvg-group="INFANTILES",canal lms
 https://cageu.bozztv.com/ssh101/ssh101/canallms/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/G7w9Ayj6II6TMmK7pf6ik9cUoM25ctHAbw4pZAlq.jpg" tvg-group="INFANTILES",visionamerica
+https://cageu.bozztv.com/ssh101/ssh101/visionamerica/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Magiconline.gif/revision/latest/scale-to-width-down/250?cb=20160827152357" tvg-group="INFANTILES", Magic Kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
 
@@ -1848,7 +1851,7 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjeYmOFVl79uC9hiyoy2TKSZXj-_Iotd4HaC_N96IzYCheiJnfwnXfsIp4ZMq9iz2gNE&usqp=CAU" tvg-group="INFANTILES", Comunicaciones Jimenez
 https://cageu.bozztv.com/ssh101/ssh101/comunicaciones/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/334_Canal_74_TeVe.png" tvg-group="INFANTILES", Canal 74 TeVe | CL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nL-TnVnBgxmr3coq7dDaOxR-doLzHaEfnIDY4v=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES", Canal 74 TeVe | CL
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" tvg-group="INFANTILES",Chiquilines HD
@@ -1857,7 +1860,7 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://cdn.m3u.cl/logo/1024_Vision_Plus_TV.jpg" tvg-group="INFANTILES", Vision Plus TV | CL
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1022" tvg-name="EGM Channel" tvg-logo="https://latinartv.com/sites/default/files/logos/egm-channel.png" tvg-group="INFANTILES", EGM Channel | CL
+#EXTINF:-1 tvg-id="1022" tvg-name="EGM Channel" tvg-logo="https://i.ytimg.com/vi/6cefaZzVkJk/hq720_live.jpg?sqp=CLjd8LAG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAwYhbw7jvMED1ryoks8kEbxsB-qg" tvg-group="INFANTILES", EGM Channel | CL
 https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="PE | BNB Digital TV" tvg-name="PE | BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/3qy2phIxXEnlFQ2jbK2EmYdWQCRwROsJZ9IQHO85tjt-b9YGJCSNpX8jYFA2boJc1g=w526-h296-rw" tvg-group="INFANTILES", 57 | Televisión digital BNB || Atalaya
@@ -1881,7 +1884,7 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWgDor4h5hAT_hX8jcrWhLkAEAdchCdVr6Vg4Ge7evWyhMvBNelHoZtlKE6_es2tF3RE&usqp=CAU" tvg-group="INFANTILES",Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/RETRO-TV-PALMARES.png" tvg-group="INFANTILES",TV Retro Palmares
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EcGmj5Qy2FZ4YIuEj1b5gnP_QQSAa_jXjoAD0dkxlB3Q77AlieXQLA963HLpvgG-8w" tvg-group="INFANTILES",TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" tvg-group="INFANTILES", Mi TV Televisión Clasica | US
@@ -3406,9 +3409,6 @@ https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-id="1286" tvg-name="Red TVE Ventanas" tvg-logo="https://cdn.m3u.cl/logo/1286_Red_TVE_Ventanas.png" tvg-group="INFANTILES", Red TVE Ventanas | EC
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPPBiIM_U5Eli2gidRLpXBYw1ZCcpmiQglTcNcuQbHGFFnvYXVB7Sp7dcYSVCoXU-yHo&usqp=CAU" tvg-group="INFANTILES",visionamerica
-https://cageu.bozztv.com/ssh101/ssh101/visionamerica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-VQ5OUPLsfktLoDnSr1cApm4b16FuNK9YsmZonSxnMVOufQ2zd8Z-MzOxBet3GpB96o&usqp=CAU" tvg-group="INFANTILES",estacionmixtv
 https://cageu.bozztv.com/ssh101/ssh101/estacionmixtv/playlist.m3u8
