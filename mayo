@@ -3755,8 +3755,6 @@ https://tvlatina.live:1936/8020/8020/.m3u8
 #EXTINF:0 tvg-logo="" tvg-group="INFANTILES",Canal 4 Mallorca (España) (🇪🇸) HD
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
-
-
 #EXTINF:0 tvg-logo="" tvg-group="INFANTILES",Classics Runtime (España) (🇪🇸)
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
@@ -3796,7 +3794,7 @@ https://www.yupi.live:1936/tvftv/tvftv/.m3u8
 #EXTINF:0 tvg-logo="" tvg-group="INFANTILES",Failarmy (España) (🇪🇸)
 https://460689fd4b6d4c80a0c539b27dc7cea8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FailArmy/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://i.imgur.com/gUiIC8E.png" tvg-group="INFANTILES",GTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUiIC8E.png" tvg-group="INFANTILES",GTV
 https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
 
 #EXTINF:0 tvg-logo="" tvg-group="INFANTILES",Factoria De Carnaval (España) (🇪🇸)
@@ -3844,7 +3842,7 @@ https://vpss2003.streamprolive.com/hls/live.m3u8
 #EXTINF:0 tvg-logo="" tvg-group="INFANTILES",Vale (Venezuela) (🇻🇪)
 https://cloud.fastchannel.es/manifiest/hls/valetv/valetv.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/294FDCB.png" tvg-group="INFANTILES",Vos & TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/294FDCB.png" tvg-group="INFANTILES",Vos & TV
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 
 #EXTINF:0 tvg-logo="" tvg-group="INFANTILES",VNP (Peru) (🇵🇪)
@@ -3889,7 +3887,7 @@ https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:0 tvg-logo="" tvg-group="INFANTILES",Rompe Tus Limites (USA) (🇺🇸)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/LHnkFND.png" tvg-group="INFANTILES",Latina Mix Radio Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHnkFND.png" tvg-group="INFANTILES",Latina Mix Radio Tv
 https://srv.panelcast.net/latinamixtvtv2021/latinamixtvtv2021/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" tvg-group="INFANTILES",Plaza (Chile) (🇨🇱)
