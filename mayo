@@ -3700,3 +3700,24 @@ https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
 
 #EXTINF:-1 tvg-id="258" tvg-name="Canal 4 Jujuy" tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/elcuatro-logo-100x124.png" tvg-group="INFANTILES", Canal 4 Jujuy | AR new
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715430427618385920/7M2WtIEE_200x200.jpg" tvg-group="INFANTILES",Canal 12 El Salvador
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalpakapaka/picture?width=200&height=200" tvg-group="INFANTILES",Paka Paka
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" tvg-group="INFANTILES",flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" tvg-group="INFANTILES",Atresplayer Clásicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+
+#EXTINF:-1 tvg-group="INFANTILES", Canal 6 CDMX 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405 
+
+#EXTINF:-1 tvg-group="INFANTILES", Azteca Uno (-1h) 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833 
+
+#EXTINF:-1 tvg-group="INFANTILES", Imagen TV+ (-1h) 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
