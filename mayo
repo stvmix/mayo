@@ -730,6 +730,9 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOcIh45T8nfPhUf9yJlv6N9M_73xbwgsoS08w2c4Tzux4nVrfGJVKyz0_EPRniyJSOFc&usqp=CAU" tvg-group="ARGENTINA",Azteca Uno-1 Hr.
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/10/57/ee810ae644028eb1793e34aeeb1f/logo-uno.png" tvg-group="ARGENTINA", Azteca Uno (-1h) 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15TY3bj45XPXj8c8_6hpv70nUWXtnwpTVst6jAKHj9oamRI8E9ec3Tor6KkcAc8B77n4&usqp=CAU" tvg-group="ARGENTINA", Azteca Corazon OK
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/131
 
@@ -750,6 +753,12 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/156
 
 #EXTINF:-1 tvg-logo="https://www.eleconomista.com.mx/__export/1584472198786/sites/eleconomista/img/2020/03/17/imagen-tv.jpg_423682103.jpg" tvg-group="ARGENTINA",Imagen TV [No 24/7]
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/grupo_imagen_logo.jpg" tvg-group="ARGENTINA", Imagen TV+ (-1h) 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6b3fa6101174459.Y3JvcCwxMTQ1LDg5NiwxMjEsODQ1.jpg" tvg-group="ARGENTINA", Canal 6 CDMX 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbbWh6H33QzEHyGa-3DW6xEse-T0-ukiVTj9BMMnzCNtnYMkOrmbmLUHPwu7PRVlSgEc&usqp=CAU" tvg-group="ARGENTINA", TELEMUNDO us
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
@@ -1469,6 +1478,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/3d543690d890b9a5918a8025aebcf2bc.png" tvg-group="PREMIUM", Terror TV * | CL
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalpakapaka/picture?width=200&height=200" tvg-group="INFANTILES",Paka Paka
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tPvjs19/pakapaka.png" tvg-group="INFANTILES", Pakapaka New
 https://cootv.cootel.com.ni:8095/Canal50_paka/playlist.m3u8
 
@@ -1802,6 +1814,12 @@ https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e460
 
 #EXTINF:0 tvg-logo="https://img2.rtve.es/p/83650/logo/?w=320" tvg-group="INFANTILES",A Las Once En Casa (España) (🇪🇸)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622f447a32669a00071a8986/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" tvg-group="INFANTILES",flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" tvg-group="INFANTILES",Atresplayer Clásicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png" tvg-group="INFANTILES",Comediaᴴᴰ 🇪🇸 A3Player 
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
@@ -3703,21 +3721,3 @@ https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715430427618385920/7M2WtIEE_200x200.jpg" tvg-group="INFANTILES",Canal 12 El Salvador
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalpakapaka/picture?width=200&height=200" tvg-group="INFANTILES",Paka Paka
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" tvg-group="INFANTILES",flooxer
-https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" tvg-group="INFANTILES",Atresplayer Clásicos
-https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
-
-#EXTINF:-1 tvg-group="INFANTILES", Canal 6 CDMX 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405 
-
-#EXTINF:-1 tvg-group="INFANTILES", Azteca Uno (-1h) 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833 
-
-#EXTINF:-1 tvg-group="INFANTILES", Imagen TV+ (-1h) 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
