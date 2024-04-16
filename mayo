@@ -1571,12 +1571,6 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/e/e4/Big_2019.png/revision/latest?cb=20200320175423" tvg-group="INFANTILES", big channel
 https://cageu.bozztv.com/ssh101/ssh101/bigchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" tvg-group="INFANTILES",canal lms
-https://cageu.bozztv.com/ssh101/ssh101/canallms/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/G7w9Ayj6II6TMmK7pf6ik9cUoM25ctHAbw4pZAlq.jpg" tvg-group="INFANTILES",visionamerica
-https://cageu.bozztv.com/ssh101/ssh101/visionamerica/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Magiconline.gif/revision/latest/scale-to-width-down/250?cb=20160827152357" tvg-group="INFANTILES", Magic Kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
 
@@ -1588,6 +1582,9 @@ https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1304" tvg-name="Niños Mágicos" tvg-logo="https://cdn.m3u.cl/logo/1304_Magic_Kids.png" tvg-group="INFANTILES", Niños Mágicos | AR nuevo
 https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" tvg-group="INFANTILES",canal lms
+https://cageu.bozztv.com/ssh101/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png" tvg-group="INFANTILES", Latino Kids TV ✪ | UY
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
@@ -1615,6 +1612,9 @@ https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/in
 
 #EXTINF:-1 tvg-logo="https://jrsy.tmsimg.com/assets/p18368280_b_h9_aa.jpg" tvg-group="INFANTILES",Pluto TV retro Cartoons hls
 https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
+
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/G7w9Ayj6II6TMmK7pf6ik9cUoM25ctHAbw4pZAlq.jpg" tvg-group="INFANTILES",visionamerica
+https://cageu.bozztv.com/ssh101/ssh101/visionamerica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://estacionretro.online/wp-content/uploads/2024/01/in2.png" tvg-group="INFANTILES", estacion retro - canalonline
 https://cageu.bozztv.com/ssh101/ssh101/canalonline/playlist.m3u8
@@ -3721,3 +3721,6 @@ https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715430427618385920/7M2WtIEE_200x200.jpg" tvg-group="INFANTILES",Canal 12 El Salvador
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-group="INFANTILES",FOXSPORTS_PREMIUM_HD)/manifest.mpd
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
