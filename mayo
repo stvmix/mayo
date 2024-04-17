@@ -3907,3 +3907,42 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" tvg-group="INFANTILES",RCN+ P (Colombia) (🇨🇴)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-group="INFANTILES", DIRECTV SPORTS lamtv
+https://vivo.lamtv.tv:8081/a/0336/playlist.m3u8
+
+#EXTINF:-1 tvg-group="INFANTILES", DIRECTV SPORTS 2 lamtv
+https://vivo.lamtv.tv:8081/a/0273/playlist.m3u8
+
+#EXTINF:-1 tvg-group="INFANTILES", DIRECTV SPORTS + lamtv
+https://vivo.lamtv.tv:8081/a/0274/playlist.m3u8
+
+#EXTINF:-1 group-title="9 Noticias" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531193-8c.png" tvg-group="INFANTILES", CNN ESPANOL SD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27981
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png" tvg-group="INFANTILES", DISCOVERY H&H(opcion 3)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27986
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" tvg-group="INFANTILES", HBO MUNDI
+http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/53238
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" tvg-group="INFANTILES", HBO MUNDI(opcion 2)
+http://play.flamaplus.tv:80/play/hUAC2XCgtW0N0759MiAJMF7XDvfyI18jH4u5BKWy8IA/ts
+
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518651-8c.png" tvg-group="INFANTILES", TVE
+http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26721
+
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425223-8c.png" tvg-group="INFANTILES", GLITZ
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62800
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK1AA5c6PDnsIOG69MwPNzg1ptDanSyDgUew&usqp=CAU" tvg-group="INFANTILES",AFIZZIONADOS
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/183
+
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425451-8c.png" tvg-group="INFANTILES", MTV LIVE
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2098822
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" tvg-group="INFANTILES", AZTECA 7 CDMX
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsR2JHI9DuSyRJmytuHWS48Y4hglIBmQxKQ&usqp=CAU" tvg-group="INFANTILES", CANAL 8 TELEVSA MTY
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
