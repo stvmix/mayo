@@ -3764,19 +3764,19 @@ https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm41ZiQ.jpg" tvg-group="INFANTILES",DMpy
 https://59ce1298bfb98.streamlock.net/digitalmediapy/digitalmediapy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gUiIC8E.png" tvg-group="INFANTILES",GTV
-https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
-
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_400x400.jpg" tvg-group="INFANTILES",Factoria De Carnaval (España) (🇪🇸)
 https://eu1.servers10.com:8081/8116/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkpCGP6.png" tvg-group="INFANTILES",Impacto Television
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Gtv_gif.gif/revision/latest/scale-to-width-down/250?cb=20190302025642" tvg-group="INFANTILES",GTV (Peru) (🇵🇪)
+#EXTINF:-1 tvg-logo="https://ak2.rmbl.ws/s8/1/5/W/5/S/5W5Sq.oq1b-small-LA-CINTA-EN-VIVO-1-04-2024.jpg" tvg-group="INFANTILES",GTV LA CINTA DE LOS EXITOS
 https://stmv.video.gmpro.top/global/global/.m3u8
 
-#EXTINF:0 tvg-logo="https://www.ploustv.com/ploustv.png" tvg-group="INFANTILES",Glow (Venezuela) (🇻🇪)
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Gtv_gif.gif/revision/latest/scale-to-width-down/250?cb=20190302025642" tvg-group="INFANTILES",GTV (Peru) (🇵🇪)
+https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
+
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/gzUBcdbUoHgnw-ZTy2BPb6-d96WdXWMz0GLOf6GA8EBbpEiVOfYYsoHmA-yC-PxyK0-8=w240-h480-rw" tvg-group="INFANTILES",Glow (Venezuela) (🇻🇪)
 https://vcp7.myplaytv.com/glowtv/glowtv/.m3u8
 
 #EXTINF:0 tvg-logo="https://tvinsur.com/wp-content/uploads/2023/12/izabal-tv.jpg" tvg-group="INFANTILES",Izabal (Guatemala) (🇬🇹)
