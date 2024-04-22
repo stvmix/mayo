@@ -3872,9 +3872,6 @@ https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 #EXTINF:-1 tvg-group="INFANTILES", 4 TELEVISA MEXICALI
 https://ythls-v2.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
 
-#EXTINF:-1 tvg-group="INFANTILES", 12 TELEVISA TIJUANA
-https://ythls-v2.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
-
 #EXTINF:-1 tvg-group="INFANTILES", GTO: TELEVISA DEL BAJIO
 https://ythls-v2.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 
