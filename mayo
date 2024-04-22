@@ -3869,41 +3869,17 @@ https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsR2JHI9DuSyRJmytuHWS48Y4hglIBmQxKQ&usqp=CAU" tvg-group="INFANTILES", CANAL 8 TELEVSA MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 
-#EXTINF:-1 tvg-group="INFANTILES", 4 TELEVISA MEXICALI
-https://ythls-v2.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
-
-#EXTINF:-1 tvg-group="INFANTILES", GTO: TELEVISA DEL BAJIO
-https://ythls-v2.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
-
-#EXTINF:-1 tvg-group="INFANTILES", JAL: TELEVISA GUADALAJARA
-https://ythls-v2.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
-
-#EXTINF:-1 tvg-group="INFANTILES", QRO: TELEVISA QUERETARO
-https://ythls-v2.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
-
-#EXTINF:-1 tvg-group="INFANTILES", SON: TELEVISA SONORA
-https://ythls-v2.onrender.com/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
-
 #EXTINF:-1 tvg-group="INFANTILES", MX: BEiN SPORT linear-256
-https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-group="INFANTILES", MX: MLB
-https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-group="INFANTILES", TAM: TELEVISA DEL GOLFO
-https://ythls-v2.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronewsespanol_logo_dark2.png",Euronews Español OK
 https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-group="INFANTILES", MLB
+https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo"https://img.static-ottera.com/prod/cnm/linear_channel/logo/b5a0742c-linear-fiestas-familia-16x9.jpg" tvg-group="INFANTILES", Fiestas en Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6292
 
 #EXTINF:-1 tvg-logo"https://img.static-ottera.com/prod/cnm/linear_channel/logo/aztecauno_c_1920x1080.png" tvg-group="INFANTILES", AZTECA UNO -1 hora OK
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
-
-#EXTINF:-1 tvg-logo"https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" tvg-group="INFANTILES", True Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 
 #EXTINF:-1 tvg-logo"https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-picante-16x9.jpg" tvg-group="INFANTILES", Cine Picante
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
